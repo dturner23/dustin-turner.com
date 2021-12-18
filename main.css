@@ -956,6 +956,15 @@ header .content .btn {
   opacity: .5;
 }
 
+/* Blog Article Page Layout */
+
+/* Header/Blog Title */
+
+
+
+
+
+
 @media screen and (max-width: 1348px) {
   #contact .contact-form {
     width: 50vw;
@@ -998,4 +1007,3 @@ footer .footer-text {
   font-weight: 100;
   color: #BFBFBF;
 }
-/*# sourceMappingURL=main.css.map */
